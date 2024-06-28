@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Hey! I'm Zineb ABERCHA, I study Computer Science at Mohammed VI Polytechnic University and  I am from Morocco.
 <!--
 **zinebabercha/zinebabercha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
