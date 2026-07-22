@@ -1,6 +1,6 @@
 ### Hi there! I'm Zineb ABERCHA 👋
 
-I am a final-year Computer Science Engineering student at **Mohammed VI Polytechnic University (UM6P College of Computing)** specializing in **AI and Data Science**. Currently, I am working as an **AI Engineer Intern at Syensqo** in Brussels. 
+I am a Computer Science Engineer student, I graduated from  **Mohammed VI Polytechnic University (UM6P College of Computing)** specializing in **AI and Data Science**. Currently, I am working as an **AI Engineer Intern at Syensqo** in Brussels. 
 
 I am deeply passionate about agentic AI systems, foundation models, and generative AI, with hands-on experience spanning research (EPFL), industry, and robust end-to-end applied engineering projects.
 
